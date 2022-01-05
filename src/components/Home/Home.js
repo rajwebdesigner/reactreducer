@@ -8,7 +8,7 @@ const Home = props =>{
         <p>This is test</p>
         <p>This is test</p>
         <p>This is test</p>
-        <p>This is test</p>
+        <p>This is testing with new</p>
     </Card>)  
 }
 
